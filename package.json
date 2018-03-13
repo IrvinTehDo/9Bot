@@ -1,0 +1,23 @@
+{
+  "name": "9bot",
+  "version": "1.0.0",
+  "description": "Discord Bot using Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/bot.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests complete\""
+  },
+  "author": "Irvin Do",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "jquery": "^3.3.1",
+    "jsdom": "^11.6.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
+}

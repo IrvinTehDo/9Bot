@@ -1,0 +1,8 @@
+{
+    "token": "discord bot token",
+    "alphaVantageAPI": "alpha vantage api token",
+    "apixuKey": "apixu key",
+    "trigger": "!",
+    "nekoImageURL": "https://nekos.brussell.me/image/",
+    "catAPI": "https://nekos.brussell.me/api/v1/random/image?count=1&nsfw="
+}
